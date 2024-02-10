@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+  background-color: #5c5c02;
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+  margin-top: .5em;
+  margin-bottom: 2em;
+}
+
+h1 {
+  font-family: "fairwater-deco-serif", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  font-size: 3em;
+  color: #ffff96;
+}
+
+h1:hover {
+  color: #ffffff;
+}
+
+h3 {
+  font-size: 2em;
+  padding-left: 1em;
+  color: #ffff96;
+}
+
+h3:hover {
+  color: #ffffff;
+}
+
+p {
+  font-size: 1.25em;
+  color: #ffff96;
+}
+
+p:hover {
+  color: #ffffff;
+}
